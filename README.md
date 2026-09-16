@@ -31,7 +31,7 @@ I live in **Paris** and I'm available immediately — remote works just as well:
 
 ## 👾 My Secret Life (Cybersecurity)
 
-[![TryHackMe — Top 3% worldwide](https://tryhackme-badges.s3.amazonaws.com/TimSouris.png)](https://tryhackme.com/p/TimSouris)
+[![TryHackMe — Top 3% worldwide](https://tryhackme-badges.s3.amazonaws.com/TimSouris.png)](https://tryhackme.com/p/timsouris)
 
 I spend a lot of time hunting for vulnerabilities on bug bounty platforms or in sandbox environments:
 
